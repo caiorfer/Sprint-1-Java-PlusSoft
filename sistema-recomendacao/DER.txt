@@ -3,9 +3,9 @@ Diagrama de Entidade e Relacionamento (DER):
        +-----------------+     1     +-------------------------+        1       +-------------------------+
        |     Usuário     |<----------|       Preferência       |<---------------|      ItemRecomendado    |
        +-----------------+           +-------------------------+                +-------------------------+
-       |   	 id          | 1     *   |  	 id                |           *    |       id                |
-       |     nome        |-----------| 		 id_usuario        |----------------|      id_categoria       |
-       |     email       |           | 		id_categoria       |                |       descricao         |
+       |   	 id          | 1     *   |  	 id            |           *    |       id                |
+       |     nome        |-----------|       id_usuario        |----------------|      id_categoria       |
+       |     email       |           |       id_categoria      |                |       descricao         |
        |     senha       |           +-------------------------+                +-------------------------+
        +-----------------+
                                                 |
