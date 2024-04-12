@@ -1,6 +1,6 @@
 Diagrama de Classe das Entidades:
 +------------------+         +------------------------+         +------------------------+        +-----------------------+
-|      Usuário     |         |       Preferência      |         |      ItemRecomendado   |        |       Categoria      |
+|      Usuário     |         |       Preferência      |         |      ItemRecomendado   |        |       Categoria       |
 +------------------+         +------------------------+         +------------------------+        +-----------------------+
 | - id: Long       |         | - id: Long             |         | - id: Long             |        | - id: Long            |
 | - nome: String   |         | - nome: String         |         | - nome: String         |        | - nome: String        |
