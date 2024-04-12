@@ -5,6 +5,7 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "30771308"
 	},
+*Usuarios*
 	"item": [
 		{
 			"name": "API usuarios",
@@ -115,6 +116,7 @@
 				}
 			]
 		},
+*Categorias*
 		{
 			"name": "API categorias",
 			"item": [
@@ -200,6 +202,7 @@
 				}
 			]
 		},
+*Preferencia*
 		{
 			"name": "API preferencia",
 			"item": [
@@ -285,6 +288,7 @@
 				}
 			]
 		},
+*ItensRecomendados*
 		{
 			"name": "API items-recomendados",
 			"item": [
