@@ -10,6 +10,7 @@ Abra o projeto em sua IDE preferida (recomendamos o uso do Eclipse ou IntelliJ I
 Certifique-se de que todas as dependências estejam corretamente configuradas (como Spring Boot e bibliotecas relacionadas).
 Execute a aplicação Spring Boot.
 Acesse os endpoints da API utilizando um cliente HTTP, como Postman ou Insomnia.
+
 Documentação da API:
 
 GET /api/usuarios: Retorna uma lista de todos os usuários cadastrados.
