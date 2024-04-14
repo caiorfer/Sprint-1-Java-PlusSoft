@@ -1,7 +1,7 @@
 Sistema de Recomendação
 
 Apresentação:
-Este é o repositório do projeto do Sistema de Recomendação, desenvolvido como parte do trabalho prático da disciplina de Programação Orientada a Objetos.
+Este é o repositório do projeto Sistema de Recomendação..
 
 Instruções de Execução:
 
